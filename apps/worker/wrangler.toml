@@ -11,7 +11,7 @@ not_found_handling = "single-page-application"
 [[d1_databases]]
 binding = "DB"
 database_name = "line-harness"
-database_id = "YOUR_DEV_D1_DATABASE_ID"
+database_id = "f439dd1d-41be-49e9-ba02-8cb5483a7c7f"
 
 [[r2_buckets]]
 binding = "IMAGES"
